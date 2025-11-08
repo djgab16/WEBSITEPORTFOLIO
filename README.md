@@ -1,8 +1,8 @@
-🌐 David M. Gabriel Jr. – Portfolio Website
+David M. Gabriel Jr. – Portfolio Website
 A personal portfolio website showcasing my background, skills, organizational experience, and creative projects.
 Built with HTML, CSS, and JavaScript, this site reflects my passion for data analytics, technology, and digital design.
 
-📋 Project Description
+Project Description
 This project is a responsive portfolio website designed to present professional information clearly and attractively.
 It includes sections for:
 
@@ -18,7 +18,7 @@ Responsive CSS layout
 Light/dark theme toggle
 Interactive navigation
 Embedded multimedia (images and video)
-⚙️ How to Run Locally
+How to Run Locally
 Follow these steps to view the portfolio locally on your device:
 
 Clone this repository
@@ -43,11 +43,11 @@ http://localhost:5500
 
 or similar.
 
-📸 Features
+ Features
 
-✅ Responsive and mobile-friendly ✅ Professional dark/light mode toggle ✅ Embedded video project section ✅ Organized experience cards with filters ✅ Simple contact form with mailto integration ✅ Modern, minimalist design using Poppins font
+ Responsive and mobile-friendly Professional dark/light mode toggle Embedded video project section Organized experience cards with filters Simple contact form with mailto integration  Modern, minimalist design using Poppins font
 
-🧠 Future Improvements
+Future Improvements
 
 Add backend support for contact form (using Node.js or Firebase)
 
@@ -55,10 +55,9 @@ Include project gallery with live previews
 
 Add analytics tracking for visits and clicks
 
-👤 Author
+ Author
 
 David M. Gabriel Jr. 📧 gabrieldavid0516@gmail.com
+LinkedIn
 
-🔗 LinkedIn
-
-⚙️ GitHub
+GitHub
